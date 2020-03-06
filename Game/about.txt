@@ -1,0 +1,1 @@
+Runtime directory for the Game. Final binary exe will be placed here.

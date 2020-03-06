@@ -1,0 +1,1 @@
+Directory for the visual studio project files to live.
